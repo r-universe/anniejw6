@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "modmarg"]
+	path = modmarg
+	url = https://github.com/anniejw6/modmarg
+	shallow = true
+	registered = true
